@@ -11,6 +11,8 @@ Ex.: Jogo Analisado - Cruzeiro e Grêmio pelo Brasileirão 2024. Usa-se o xG do 
 ### 2. Distribuição Poisson
 A distribuição de Poisson é uma distribuição de probabilidade discreta que expressa a probabilidade de um determinado número de eventos ocorrer em um intervalo fixo. Dessa forma, com os gols esperados dos times em mãos, utilliza-se a distribuição Poisson para analisar qual a probabilidade do time fazer cada quantidade de gols.
 Como resultado, gera-se dois vetores com as probabilidades de ocorrência de cada quantidade de gols de cada time.
+![image](https://github.com/user-attachments/assets/b4d604dd-ece2-4d17-93b9-54e819267382)
+
 
 ### 3. Análise de Placares
 Foram testados diferentes algoritmos de aprendizado de máquina, incluindo:
