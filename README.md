@@ -1,7 +1,12 @@
 # Analise de Probabilidade de Resultados no Futebol - Abordagem Estatística
 
 ## 📊 O que é ?
-Este projeto trata-se do uso de métodos estatísticos e conceitos de Analytics aplicados ao futebol para analisar e determinar as probabilidades de cada evento de uma partida de futebol, sendo eles a vitória, a derrota e o empate de um time. Através dele, é possível ter indícios de qual resultado mais provável de acontecer e assim, ajudar na tomada de decisão, como na decisão de aposta esportiva, na decisão de um técnico de determinar seu esquema tático para algo mais ofensivo/defensivo, etc.
+Este projeto consiste em uma análise de probabilidades de resultados de partidas de futebol utilizando a distribuição de Poisson. Ele foi desenvolvido para ajudar na previsão de placares e no cálculo de pontos esperados para cada time com base em suas métricas de "expected goals" (xG).
+
+Essa abordagem é útil para:
+- Previsão de resultados esportivos.
+- Planejamento estratégico de partidas.
+- Análise estatística em estudos esportivos.
 
 ## 📈 Metodologia
 ### 1. Métrica de Expected Goals (xG)
